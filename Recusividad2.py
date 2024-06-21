@@ -1,2 +1,1 @@
 print("Cambios")
-print("Nuevo")
